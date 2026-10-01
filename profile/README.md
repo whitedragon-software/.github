@@ -3,9 +3,9 @@
 # WhiteDragon-software
 
 Minimal software for the open web.
-Built on Cloudflare Workers and Node.js — few dependencies, no build step, small enough to read in full.
+Built on Cloudflare Workers and Node.js â€” few dependencies, no build step, small enough to read in full.
 
-[Website](https://whitedragon.software) · [GitHub](https://github.com/whitedragon-software) · [DEV](https://dev.to/whitedragon)
+[Website](https://whitedragon.software) Â· [GitHub](https://github.com/whitedragon-software) Â· [DEV](https://dev.to/whitedragon)
 
 </div>
 
@@ -18,6 +18,7 @@ Built on Cloudflare Workers and Node.js — few dependencies, no build step, sma
 | [**relay**](https://github.com/whitedragon-software/relay) | Single-file Cloudflare Worker that forwards and rewrites web pages through a domain you control | Active |
 | [**daybreak**](https://github.com/whitedragon-software/daybreak) | Minimal multi-tab desktop browser built on Electron | Active |
 | [**webcore**](https://github.com/whitedragon-software/webcore) | Chat assistant running entirely on Cloudflare Workers AI, no separate backend | Active |
+| [**whitedragon-authenticator**](https://github.com/whitedragon-software/whitedragon-authenticator) | TOTP authenticator in a single Cloudflare Worker, with codes computed in the browser and data kept in Workers KV | Active |
 | [**whitedragon-forum**](https://github.com/whitedragon-software/whitedragon-forum) | Community space built on git-forums and GitHub Discussions | Live |
 
 ## Licenses
@@ -29,6 +30,6 @@ Built on Cloudflare Workers and Node.js — few dependencies, no build step, sma
 
 ## Contact
 
-- GitHub — [github.com/whitedragon-software](https://github.com/whitedragon-software)
-- Writing — [dev.to/whitedragon](https://dev.to/whitedragon)
-- Email — [info@whitedragon.software](mailto:info@whitedragon.software)
+- GitHub â€” [github.com/whitedragon-software](https://github.com/whitedragon-software)
+- Writing â€” [dev.to/whitedragon](https://dev.to/whitedragon)
+- Email â€” [info@whitedragon.software](mailto:info@whitedragon.software)
