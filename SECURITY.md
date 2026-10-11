@@ -1,6 +1,6 @@
 # Security Policy
 
-WhiteDragon-software takes the security of its projects seriously. This document explains which versions receive fixes, how to report a vulnerability, and what is in scope.
+WhiteDragon Software takes the security of its projects seriously. This document explains which versions receive fixes, how to report a vulnerability, and what is in scope.
 
 ## Supported Versions
 
@@ -38,7 +38,7 @@ These are targets, not guarantees; this is a small, volunteer-run organization. 
 
 ## Scope
 
-This policy covers all repositories in the WhiteDragon-software organization. Notes on the main projects:
+This policy covers all repositories in the WhiteDragon Software organization. Notes on the main projects:
 
 | Project | Things we especially want to hear about |
 | ------- | --------------------------------------- |

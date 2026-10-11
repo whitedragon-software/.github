@@ -1,8 +1,8 @@
 # Support
 
-Thanks for using WhiteDragon-software projects. This page explains where to get help.
+Thanks for using WhiteDragon Software projects. This page explains where to get help.
 
-WhiteDragon-software is a small organization and support is provided on a best-effort basis, with no guaranteed response time. Clear, specific questions get faster and better answers.
+WhiteDragon Software is a small organization and support is provided on a best-effort basis, with no guaranteed response time. Clear, specific questions get faster and better answers.
 
 ## Where to Go
 

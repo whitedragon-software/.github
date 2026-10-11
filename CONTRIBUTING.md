@@ -1,6 +1,6 @@
-# Contributing to WhiteDragon-software
+# Contributing to WhiteDragon Software
 
-Thank you for your interest in contributing to WhiteDragon-software.
+Thank you for your interest in contributing to WhiteDragon Software.
 
 We build minimal software for the open web, on Cloudflare Workers and Node.js: few dependencies, no build step, and small enough to read in full. Contributions are welcome when they improve a project while keeping it simple, clear, and true to its purpose.
 
@@ -78,4 +78,4 @@ All contributors and maintainers are expected to follow [CODE_OF_CONDUCT.md](COD
 
 > **Prefer the smallest clear solution that solves the real problem.**
 
-Thank you for contributing to WhiteDragon-software.
+Thank you for contributing to WhiteDragon Software.
