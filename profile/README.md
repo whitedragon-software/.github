@@ -33,5 +33,3 @@ Built on Cloudflare Workers and Node.js. Few dependencies, no build step, small 
 - GitHub: [github.com/whitedragon-software](https://github.com/whitedragon-software)
 - Writing: [dev.to/whitedragon](https://dev.to/whitedragon)
 - Email: [info@whitedragon.software](mailto:info@whitedragon.software)
-````
-````
