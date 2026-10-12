@@ -18,6 +18,7 @@ Built on Cloudflare Workers and Node.js. Few dependencies, no build step, small 
 | [**relay**](https://github.com/whitedragon-software/relay) | Single-file Cloudflare Worker that forwards and rewrites web pages through a domain you control | Active |
 | [**daybreak**](https://github.com/whitedragon-software/daybreak) | Minimal multi-tab desktop browser built on Electron | Active |
 | [**webcore**](https://github.com/whitedragon-software/webcore) | Chat assistant running entirely on Cloudflare Workers AI, no separate backend | Active |
+| [**outbox**](https://github.com/whitedragon-software/outbox) | Single-file Cloudflare Worker that sends email through Resend from your own domain | Active |
 | [**whitedragon-authenticator**](https://github.com/whitedragon-software/whitedragon-authenticator) | Local-only TOTP authenticator in a single HTML file, with no server or account | Active |
 | [**whitedragon-forum**](https://github.com/whitedragon-software/whitedragon-forum) | Community space built on git-forums and GitHub Discussions | Live |
 
