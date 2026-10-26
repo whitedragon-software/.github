@@ -20,7 +20,6 @@ Built on Cloudflare Workers and Node.js. Few dependencies, no build step, small 
 | [**webcore**](https://github.com/whitedragon-software/webcore) | Chat assistant running entirely on Cloudflare Workers AI, no separate backend | Active |
 | [**outbox**](https://github.com/whitedragon-software/outbox) | Single-file Cloudflare Worker that sends email through Resend from your own domain | Active |
 | [**whitedragon-authenticator**](https://github.com/whitedragon-software/whitedragon-authenticator) | Local-only TOTP authenticator in a single HTML file, with no server or account | Active |
-| [**whitedragon-forum**](https://github.com/whitedragon-software/whitedragon-forum) | Community space built on git-forums and GitHub Discussions | Live |
 
 ## Licenses
 
@@ -32,5 +31,7 @@ Built on Cloudflare Workers and Node.js. Few dependencies, no build step, small 
 ## Contact
 
 - GitHub: [github.com/whitedragon-software](https://github.com/whitedragon-software)
+- Telegram channel: [t.me/whitedragon_software](https://t.me/whitedragon_software)
+- Telegram group: [t.me/whitedragon_community](https://t.me/whitedragon_community)
 - Writing: [dev.to/whitedragon](https://dev.to/whitedragon)
 - Email: [info@whitedragon.software](mailto:info@whitedragon.software)
